@@ -16,6 +16,7 @@ o valor final já convertido e vai encerrar o programa.
    Fonte: Alura💙 e Mariana Ocireu.
 </div>
 
+##
 **Qual o diferencial?**
 
 Para esse desafio utilizei a API **Extended Rate.** Essa API, é gratuita e bem simples de utilizar e é ela que vai ser a nossa string de conexão. 
