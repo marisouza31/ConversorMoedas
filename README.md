@@ -9,4 +9,9 @@ O usuário vai entrar com a opção que deseja dentro desse menu e depois disso 
 o valor final já convertido e vai encerrar o programa.
 ##
 
-Resultado via console: Conversor de Moedas
+<div align="center">
+  
+  <h4>Resultado via console: Conversor de Moedas</h4>
+  <img width="500" src="https://github.com/marisouza31/ConversorMoedas/blob/main/result.png"><br>
+   Fonte: Alura💙 e Mariana Ocireu.
+</div>
