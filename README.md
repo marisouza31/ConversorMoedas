@@ -12,6 +12,6 @@ o valor final já convertido e vai encerrar o programa.
 <div align="center">
   
   <h4>Resultado via console: Conversor de Moedas</h4>
-  <img width="500" src="https://github.com/marisouza31/Amigo-secreto/blob/main/result/result.png"><br>
+  <img width="500" src="https://github.com/marisouza31/ConversorMoedas/blob/main/result/result.png"><br>
    Fonte: Alura💙 e Mariana Ocireu.
 </div>
